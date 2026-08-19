@@ -1,0 +1,11 @@
+# İstanbul Etkinlik Scraper — Python bağımlılıkları
+# Kurulum: pip install -r requirements.txt
+
+requests>=2.31.0          # HTTP istekleri (statik sayfalar)
+beautifulsoup4>=4.12.0    # HTML ayrıştırma
+lxml>=5.1.0               # BeautifulSoup için hızlı ayrıştırıcı
+playwright>=1.42.0        # Dinamik/JS sayfalar (async API)
+fake-useragent>=1.5.0     # (Opsiyonel) ek User-Agent kaynağı
+
+# NOT: Playwright yüklendikten sonra tarayıcıları da kurmayı unutmayın:
+#   python -m playwright install chromium
