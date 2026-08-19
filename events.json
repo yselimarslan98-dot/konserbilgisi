@@ -1,0 +1,66 @@
+[
+  {
+    "id": "a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6",
+    "artist": "Sezen Aksu",
+    "event_name": "Sezen Aksu Konseri",
+    "date": "2026-09-15",
+    "time": "21:00",
+    "venue": "Harbiye Cemil Topuzlu Açıkhava Sahnesi",
+    "district": "Şişli",
+    "genre": "Pop",
+    "price_min": 750.0,
+    "price_max": 2500.0,
+    "price_categories": {
+      "Arka Blok": 750.0,
+      "Orta Blok": 1500.0,
+      "Ön Blok": 2500.0
+    },
+    "is_free": false,
+    "discount_info": "%20 erken rezervasyon indirimi",
+    "ticket_url": "https://www.biletix.com/etkinlik/sezen-aksu-2026/TURKIYE/tr",
+    "image_url": "https://img.turkiyetoday.com/images/2025/02/Turkish-pop-icon-Sezen-Aksu1-1600x1067.png",
+    "source": "biletix",
+    "scraped_at": "2026-08-19T10:30:00"
+  },
+  {
+    "id": "b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7",
+    "artist": "Mabel Matiz",
+    "event_name": "Mabel Matiz — Yaz Turnesi",
+    "date": "2026-08-28",
+    "time": "20:30",
+    "venue": "KüçükÇiftlik Park",
+    "district": "Şişli",
+    "genre": "Alternatif",
+    "price_min": 900.0,
+    "price_max": 1800.0,
+    "price_categories": {
+      "Genel Giriş": 900.0,
+      "VIP": 1800.0
+    },
+    "is_free": false,
+    "discount_info": "",
+    "ticket_url": "https://www.passo.com.tr/tr/etkinlik/mabel-matiz",
+    "image_url": "https://www.passo.com.tr/images/mabel-matiz.jpg",
+    "source": "passo",
+    "scraped_at": "2026-08-19T10:31:00"
+  },
+  {
+    "id": "c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8",
+    "artist": "İstanbul Devlet Senfoni Orkestrası",
+    "event_name": "Ücretsiz Yaz Konseri",
+    "date": "2026-08-25",
+    "time": "19:00",
+    "venue": "Maçka Demokrasi Parkı",
+    "district": "Beşiktaş",
+    "genre": "Klasik",
+    "price_min": 0.0,
+    "price_max": 0.0,
+    "price_categories": {},
+    "is_free": true,
+    "discount_info": "",
+    "ticket_url": "https://kultursanat.istanbul/etkinlik/ucretsiz-yaz-konseri",
+    "image_url": "https://imgproxy.ra.co/_/quality:66/aHR0cHM6Ly9pbWFnZXMucmEuY28vOWEyZDUwNWNmZTEwNTgwMjQzOTBjNWRjYTI1MTYyYzlkMWY2NjAzZC5wbmc=",
+    "source": "ibb",
+    "scraped_at": "2026-08-19T10:32:00"
+  }
+]
